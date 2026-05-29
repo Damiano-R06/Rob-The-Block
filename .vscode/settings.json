@@ -1,0 +1,8 @@
+{
+    "java.import.maven.projectConfigurations": [
+        {
+            "filePath": "Game/pom.xml"
+        }
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
